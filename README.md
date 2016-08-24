@@ -51,12 +51,6 @@ se instalará los paguetes necesarios para levantar el sistema.
         server.js       --> archivo principal del servidor.
 
 
-
-## Example App
-
-A simple [blog](https://github.com/btford/angular-express-blog) based on this seed.
-
-
 ## Contacto
 
 Para más información sober AngularJS chequee http://angularjs.org/
